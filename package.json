@@ -4,7 +4,7 @@
   "description": "este sistema e um portal para os programadores acharem vagas de trabalho",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon app.js"
   },
   "keywords": [
     "dev",
